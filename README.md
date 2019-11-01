@@ -14,7 +14,15 @@ Ghi chép quá trình tìm hiểu OpenStack
 - [Cài thử nghiệm Openstack sử dụng Packstack](./docs/01.Overview/02.Install_packstack_OpenstackStein.md)
 
 - [Sử dụng Openstack dashboard](./docs/01.Overview/03.Use-Dashboard.md)
+
+- [Chuẩn bị môi trường cài đặt Openstack Stein](./docs/01.Overview/04.Enviroment-setup.md)
+
 ### 2. Keystone
 
 - [Giới thiệu về  Openstack  Identity](./docs/02.Keystone/01.Introduct-Keystone.md)
+
 - [Cài đặt Keystone ](./docs/02.Keystone/02.Install-Keystone.md)
+
+- [Cấu hình Keystone](./docs/02.Keystone/03.Config-Keystone.md)
+
+
