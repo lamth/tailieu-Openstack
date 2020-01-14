@@ -10,6 +10,8 @@ Database: mariadb
 
 ## Cài đặt Cinder 8.1.1
 
+Cấu hình repo cho openstack mitaka.
+
 ```
 yum install -y https://buildlogs.centos.org/centos/7/cloud/x86_64/openstack-mitaka/centos-release-openstack-mitaka-1-4.el7.noarch.rpm
 
