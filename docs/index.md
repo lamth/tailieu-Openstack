@@ -1,6 +1,6 @@
 Ghi chép quá trình tìm hiểu OpenStack
 - Môi trường : Centos 7
-- Phiên bản : Openstack Stein
+- Phiên bản : Openstack Train
 - Hypervisor : KVM/QEMU
 - Có sử dụng FirewallD, không sử dụng SeLinux.
 
@@ -16,6 +16,7 @@ Ghi chép quá trình tìm hiểu OpenStack
 - [Sử dụng Openstack dashboard](./01.Overview/03.Use-Dashboard.md)
 
 - [Chuẩn bị môi trường cài đặt Openstack Stein](./01.Overview/04.Enviroment-setup.md)
+- [Cài Openstack Train với Packstack](./01.Overview/05.Install-openstack-2nodes-with-packstack.md)
 
 ### 2. Keystone
 
