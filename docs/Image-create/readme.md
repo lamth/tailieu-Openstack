@@ -1,0 +1,1 @@
+## Tạo image cho Openstack.
