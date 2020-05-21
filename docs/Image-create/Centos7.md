@@ -236,6 +236,6 @@ glance image-create --name CentOS7-64bit-2019 \
 ```
 openstack server create Cent7-cli\
   --image CentOS7-64bit-2019 \
-  --network External-HN \
-  --flavor test-image --user-data passwd-cloud
+  --network provider1 \
+  --flavor 1 --user-data passwd-cloud
 ```
