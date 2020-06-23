@@ -21,8 +21,14 @@ Ghi chép quá trình tìm hiểu OpenStack
 
 - [Giới thiệu về  Openstack  Identity](./docs/02.Keystone/01.Introduct-Keystone.md)
 
-- [Cài đặt Keystone ](./docs/02.Keystone/02.Install-Keystone.md)
+- [ Cài đặt Keystone ](./docs/02.Keystone/02.Install-Keystone.md)
 
-- [Cấu hình Keystone](./docs/02.Keystone/03.Config-Keystone.md)
+- [ Cấu hình Keystone](./docs/02.Keystone/03.Config-Keystone.md)
 
+- [ Tìm hiểu Keystone Token](./docs/02.Keystone/04.Token-Keystone.md)
 
+- [ Làm việc với Keystone sử dụng Openstack Client](./docs/02.Keystone/05.Keystone-cli.md)
+
+- [ Làm việc với Keystone thông qua API sử dụng Curl](./docs/02.Keystone/06.Keystone-API-with-Curl.md)
+
+### 3. Glance
