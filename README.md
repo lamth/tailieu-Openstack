@@ -1,4 +1,7 @@
-Ghi chép quá trình tìm hiểu OpenStack
+# Ghi chép quá trình tìm hiểu OpenStack
+
+
+
 - Môi trường : Centos 7
 - Phiên bản : Openstack Stein
 - Hypervisor : KVM/QEMU
