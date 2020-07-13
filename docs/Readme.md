@@ -11,45 +11,45 @@
 
 ## 1. Giới thiệu
 
-- [Giới thiệu về Cloud Computing và Openstack](./docs/01.Overview/01.Introduce-to-Cloud-Computing.md)
+- [Giới thiệu về Cloud Computing và Openstack](./01.Overview/01.Introduce-to-Cloud-Computing.md)
 
-- [Cài thử nghiệm Openstack sử dụng Packstack](./docs/01.Overview/02.Install_packstack_OpenstackStein.md)
+- [Cài thử nghiệm Openstack sử dụng Packstack](./01.Overview/02.Install_packstack_OpenstackStein.md)
 
-- [Sử dụng Openstack dashboard](./docs/01.Overview/03.Use-Dashboard.md)
+- [Sử dụng Openstack dashboard](./01.Overview/03.Use-Dashboard.md)
 
-- [Chuẩn bị môi trường cài đặt Openstack Stein](./docs/01.Overview/04.Enviroment-setup.md)
+- [Chuẩn bị môi trường cài đặt Openstack Stein](./01.Overview/04.Enviroment-setup.md)
 
-### [2. Keystone](./docs)
+### [2. Keystone](.)
 
-- [Giới thiệu về  Openstack  Identity](./docs/02.Keystone/01.Introduct-Keystone.md)
+- [Giới thiệu về  Openstack  Identity](./02.Keystone/01.Introduct-Keystone.md)
 
-- [ Cài đặt Keystone ](./docs/02.Keystone/02.Install-Keystone.md)
+- [ Cài đặt Keystone ](./02.Keystone/02.Install-Keystone.md)
 
-- [ Cấu hình Keystone](./docs/02.Keystone/03.Config-Keystone.md)
+- [ Cấu hình Keystone](./02.Keystone/03.Config-Keystone.md)
 
-- [ Tìm hiểu Keystone Token](./docs/02.Keystone/04.Token-Keystone.md)
+- [ Tìm hiểu Keystone Token](./02.Keystone/04.Token-Keystone.md)
 
-- [ Làm việc với Keystone sử dụng Openstack Client](./docs/02.Keystone/05.Keystone-cli.md)
+- [ Làm việc với Keystone sử dụng Openstack Client](./02.Keystone/05.Keystone-cli.md)
 
-- [ Làm việc với Keystone thông qua API sử dụng Curl](./docs/02.Keystone/06.Keystone-API-with-Curl.md)
+- [ Làm việc với Keystone thông qua API sử dụng Curl](./02.Keystone/06.Keystone-API-with-Curl.md)
 
-### [3. Glance](./docs/03.Glance)
+### [3. Glance](./03.Glance)
 
-- [Giới thiệu về Openstack Image - Glance](./docs/03.Glance/01.Introduction-Glance.md)
+- [Giới thiệu về Openstack Image - Glance](./03.Glance/01.Introduction-Glance.md)
 
-- [Cài đặt Glance](./docs/03.Glance/02.Install-Glance.md)
+- [Cài đặt Glance](./03.Glance/02.Install-Glance.md)
 
-- [ Tìm hiểu Metadata definition service trong Openstack image](./docs/03.Glance/03.Metadata-definition-concepts.md)
+- [ Tìm hiểu Metadata definition service trong Openstack image](./03.Glance/03.Metadata-definition-concepts.md)
 
-- [ Làm việc với Glance thông qua Openstack client và Glance API](./docs/03.Glance/04.Work-with-Glance.md)
+- [ Làm việc với Glance thông qua Openstack client và Glance API](./03.Glance/04.Work-with-Glance.md)
 
 - [Tìm hiểu Image Property(các thuộc tính của image)](docs/03.Glance/05.Image-Properties.md)
 
 ### [4. Placement](docs/04.Placement)
 
-- [Giới thiệu về Placement](./docs/04.Placement/01.Introduction.md)
+- [Giới thiệu về Placement](./04.Placement/01.Introduction.md)
 
-- [Cài đặt dịch vụ Placement](./docs/04.Placement/02.Install-Placement.md)
+- [Cài đặt dịch vụ Placement](./04.Placement/02.Install-Placement.md)
 
 
 ### [5. Nova](docs/05.Nova)
