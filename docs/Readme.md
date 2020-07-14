@@ -1,6 +1,6 @@
 # Ghi chép quá trình tìm hiểu OpenStack
 
-
+![](https://i.imgur.com/IZgCQ9y.png)
 
 - Môi trường : Centos 7
 - Phiên bản : Openstack Stein
@@ -9,7 +9,7 @@
 
 ## Mục Lục
 
-## 1. Giới thiệu
+## 1. Giới thiệu  
 
 - [Giới thiệu về Cloud Computing và Openstack](./01.Overview/01.Introduce-to-Cloud-Computing.md)
 
@@ -19,7 +19,7 @@
 
 - [Chuẩn bị môi trường cài đặt Openstack Stein](./01.Overview/04.Enviroment-setup.md)
 
-### [2. Keystone](.)
+### 2. Openstack Identity - Keystone
 
 - [Giới thiệu về  Openstack  Identity](./02.Keystone/01.Introduct-Keystone.md)
 
@@ -33,7 +33,7 @@
 
 - [ Làm việc với Keystone thông qua API sử dụng Curl](./02.Keystone/06.Keystone-API-with-Curl.md)
 
-### [3. Glance](./03.Glance)
+### 3. Openstack Image - Glance
 
 - [Giới thiệu về Openstack Image - Glance](./03.Glance/01.Introduction-Glance.md)
 
@@ -45,14 +45,14 @@
 
 - [Tìm hiểu Image Property(các thuộc tính của image)](docs/03.Glance/05.Image-Properties.md)
 
-### [4. Placement](docs/04.Placement)
+### 4. Placement
 
 - [Giới thiệu về Placement](./04.Placement/01.Introduction.md)
 
 - [Cài đặt dịch vụ Placement](./04.Placement/02.Install-Placement.md)
 
 
-### [5. Nova](docs/05.Nova)
+### 5. Openstack Compute - Nova
 
 - [Giới thiệu về dịch vụ Openstack Compute - Nova](docs/05.Nova/01.Introduction.md)
 
@@ -68,7 +68,7 @@
 
 - [Migrate máy ảo trong Nova (chưa hoàn thành)](docs/05.Nova/07.Migrate-VM(Not-done-yet).md)
 
-### [6. Neutron](docs/06.Neutron/)
+### 6. Openstack Networking - Neutron
 
 - [Giới thiệu về Openstack Networking - Neutron và một số khái niệm liên quan](docs/06.Neutron/01.Introduction-neutron.md)
 
@@ -83,3 +83,7 @@
 - [Cài đặt Openstack Neutron sử dụng Openvswitch - mô hình Self-service](docs/06.Neutron/06.Install-Neutron-SelfService-with-OpenvSwitch.md)
 
 - [Luồng đi của mạng trong Neutron sử dụng Openvswitch](docs/06.Neutron/07.OVS-network-traffig-flow.md)
+
+### 7. Openstack Block Storage - Cinder
+
+- [Giới thiệu về Openstack Block Storage - Cinder](07.Cinder/01.Introduction.md)
