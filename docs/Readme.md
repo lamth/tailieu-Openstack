@@ -86,4 +86,9 @@
 
 ### 7. Openstack Block Storage - Cinder
 
-- [Giới thiệu về Openstack Block Storage - Cinder](07.Cinder/01.Introduction.md)
+- [Tìm hiểu tổng quan về dịch vụ Openstack Block Storage](07.Cinder/01.Introduction.md)
+- [Cài đặt Cinder-sử dụng storage backend LVM](07.Cinder/02.Installation.md)
+- [Kiến trúc và luồng hoạt động giữa các thành phần của Cinder](07.Cinder/03.Cinder-Architecture.md)
+- [Một số câu lệnh làm việc với Cinder](07.Cinder/04.Work-with-Cinder-using-CLI.md)
+- [Cấu hình mutilple backend cho Cinder](07.Cinder/05.Config-multiple-backend.md)
+- [Tìm hiểu cơ chế Filter và weghter trong Cinder để scheduler](07.Cinder/06.Scheduler-Filter-Multiple-backend.md)
