@@ -7,5 +7,5 @@
 - [Kiến trúc và luồng hoạt động giữa các thành phần của Cinder](03.Cinder-Architecture.md)
 - [Một số câu lệnh làm việc với Cinder](04.Work-with-Cinder-using-CLI.md)
 - [Cấu hình mutilple backend cho Cinder](05.Config-multiple-backend.md)
-- [Tìm hiểu cơ chế Filter và weghter trong Cinder để scheduler]
+- [Tìm hiểu cơ chế Filter và weighter trong Cinder để scheduler](06.Scheduler-Filter-Multiple-backend.md)
 
