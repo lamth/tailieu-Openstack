@@ -94,7 +94,11 @@ WSGIApplicationGroup %{GLOBAL}
 ```
 systemctl restart httpd.service memcached.service
 ```
-
+- Cấu hình firewalld:
+```
+firewall-cmd --add-port=80 --permanent
+firewall-cmd --reload
+```
 
 
 ## Tài liệu nguồn:
