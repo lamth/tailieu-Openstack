@@ -70,25 +70,25 @@
 
 ### 6. Openstack Networking - Neutron
 
-- [Giới thiệu về Openstack Networking - Neutron và một số khái niệm liên quan](docs/06.Neutron/01.Introduction-neutron.md)
+- [Giới thiệu về Openstack Networking - Neutron và một số khái niệm liên quan](/06.Neutron/01.Introduction-neutron.md)
 
-- [Cài đặt Openstack Neutron sử dụng LinuxBridge - mô hình Self-service](docs/06.Neutron/02.Installation.md)
+- [Cài đặt Openstack Neutron sử dụng LinuxBridge - mô hình Self-service](/06.Neutron/02.Installation.md)
 
-- [Network namespace và kiến trúc các thành phần Neutron](docs/06.Neutron/03.Namespace-and-Networking-Architecture.md)
+- [Network namespace và kiến trúc các thành phần Neutron](/06.Neutron/03.Namespace-and-Networking-Architecture.md)
 
 - [Tìm hiểu Address Scope](docs/06.Neutron/04.Address-Scopes.md)
 
-- [Luồng đi của mạng trong Neutron sử dụng Linux Bridge](docs/06.Neutron/05.Linux-bridge-network-trafic-flow.md)
+- [Luồng đi của mạng trong Neutron sử dụng Linux Bridge](/06.Neutron/05.Linux-bridge-network-trafic-flow.md)
 
-- [Cài đặt Openstack Neutron sử dụng Openvswitch - mô hình Self-service](docs/06.Neutron/06.Install-Neutron-SelfService-with-OpenvSwitch.md)
+- [Cài đặt Openstack Neutron sử dụng Openvswitch - mô hình Self-service](/06.Neutron/06.Install-Neutron-SelfService-with-OpenvSwitch.md)
 
-- [Luồng đi của mạng trong Neutron sử dụng Openvswitch](docs/06.Neutron/07.OVS-network-traffig-flow.md)
+- [Luồng đi của mạng trong Neutron sử dụng Openvswitch](./06.Neutron/07.OVS-network-traffig-flow.md)
 
 ### 7. Openstack Block Storage - Cinder
 
-- [Tìm hiểu tổng quan về dịch vụ Openstack Block Storage](07.Cinder/01.Introduction.md)
-- [Cài đặt Cinder-sử dụng storage backend LVM](07.Cinder/02.Installation.md)
-- [Kiến trúc và luồng hoạt động giữa các thành phần của Cinder](07.Cinder/03.Cinder-Architecture.md)
-- [Một số câu lệnh làm việc với Cinder](07.Cinder/04.Work-with-Cinder-using-CLI.md)
-- [Cấu hình mutilple backend cho Cinder](07.Cinder/05.Config-multiple-backend.md)
-- [Tìm hiểu cơ chế Filter và weghter trong Cinder để scheduler](07.Cinder/06.Scheduler-Filter-Multiple-backend.md)
+- [Tìm hiểu tổng quan về dịch vụ Openstack Block Storage](./07.Cinder/01.Introduction.md)
+- [Cài đặt Cinder-sử dụng storage backend LVM](./07.Cinder/02.Installation.md)
+- [Kiến trúc và luồng hoạt động giữa các thành phần của Cinder](./07.Cinder/03.Cinder-Architecture.md)
+- [Một số câu lệnh làm việc với Cinder](./07.Cinder/04.Work-with-Cinder-using-CLI.md)
+- [Cấu hình mutilple backend cho Cinder](./07.Cinder/05.Config-multiple-backend.md)
+- [Tìm hiểu cơ chế Filter và weghter trong Cinder để scheduler](./07.Cinder/06.Scheduler-Filter-Multiple-backend.md)
