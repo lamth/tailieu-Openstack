@@ -1,4 +1,4 @@
-# Ghi chép quá trình tìm hiểu OpenStack
+# Tìm hiểu OpenStack
 
 ![](https://i.imgur.com/IZgCQ9y.png)
 
