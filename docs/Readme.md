@@ -54,33 +54,33 @@
 
 ### 5. Openstack Compute - Nova
 
-- [Giới thiệu về dịch vụ Openstack Compute - Nova](docs/05.Nova/01.Introduction.md)
+- [Giới thiệu về dịch vụ Openstack Compute - Nova](./05.Nova/01.Introduction.md)
 
-- [Cài đặt Nova](docs/05.Nova/02.Installation.md)
+- [Cài đặt Nova](./05.Nova/02.Installation.md)
 
-- [Làm việc với Nova sử dụng Openstack client và Nova API](docs/05.Nova/03.Work-with-Nova-using-CLI&API.md)
+- [Làm việc với Nova sử dụng Openstack client và Nova API](./05.Nova/03.Work-with-Nova-using-CLI&API.md)
 
-- [Một số cấu hình bổ sung cho Nova](docs/05.Nova/04.Nova-config-file.md)
+- [Một số cấu hình bổ sung cho Nova](./05.Nova/04.Nova-config-file.md)
 
-- [Sử dụng Metadata trong Nova](docs/05.Nova/05.Metadata.md)
+- [Sử dụng Metadata trong Nova](./05.Nova/05.Metadata.md)
 
-- [Giao tiếp nội bộ của các thành phần trong Nova](docs/05.Nova/06.Nova-internal.md)
+- [Giao tiếp nội bộ của các thành phần trong Nova](./05.Nova/06.Nova-internal.md)
 
-- [Migrate máy ảo trong Nova (chưa hoàn thành)](docs/05.Nova/07.Migrate-VM(Not-done-yet).md)
+- [Migrate máy ảo trong Nova (chưa hoàn thành)](./05.Nova/07.Migrate-VM(Not-done-yet).md)
 
 ### 6. Openstack Networking - Neutron
 
-- [Giới thiệu về Openstack Networking - Neutron và một số khái niệm liên quan](/06.Neutron/01.Introduction-neutron.md)
+- [Giới thiệu về Openstack Networking - Neutron và một số khái niệm liên quan](./06.Neutron/01.Introduction-neutron.md)
 
-- [Cài đặt Openstack Neutron sử dụng LinuxBridge - mô hình Self-service](/06.Neutron/02.Installation.md)
+- [Cài đặt Openstack Neutron sử dụng LinuxBridge - mô hình Self-service](./06.Neutron/02.Installation.md)
 
-- [Network namespace và kiến trúc các thành phần Neutron](/06.Neutron/03.Namespace-and-Networking-Architecture.md)
+- [Network namespace và kiến trúc các thành phần Neutron](./06.Neutron/03.Namespace-and-Networking-Architecture.md)
 
-- [Tìm hiểu Address Scope](docs/06.Neutron/04.Address-Scopes.md)
+- [Tìm hiểu Address Scope](./06.Neutron/04.Address-Scopes.md)
 
-- [Luồng đi của mạng trong Neutron sử dụng Linux Bridge](/06.Neutron/05.Linux-bridge-network-trafic-flow.md)
+- [Luồng đi của mạng trong Neutron sử dụng Linux Bridge](./06.Neutron/05.Linux-bridge-network-trafic-flow.md)
 
-- [Cài đặt Openstack Neutron sử dụng Openvswitch - mô hình Self-service](/06.Neutron/06.Install-Neutron-SelfService-with-OpenvSwitch.md)
+- [Cài đặt Openstack Neutron sử dụng Openvswitch - mô hình Self-service](./06.Neutron/06.Install-Neutron-SelfService-with-OpenvSwitch.md)
 
 - [Luồng đi của mạng trong Neutron sử dụng Openvswitch](./06.Neutron/07.OVS-network-traffig-flow.md)
 
