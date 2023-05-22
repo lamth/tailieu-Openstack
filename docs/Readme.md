@@ -43,7 +43,7 @@
 
 - [ Làm việc với Glance thông qua Openstack client và Glance API](./03.Glance/04.Work-with-Glance.md)
 
-- [Tìm hiểu Image Property(các thuộc tính của image)](docs/03.Glance/05.Image-Properties.md)
+- [Tìm hiểu Image Property(các thuộc tính của image)](./03.Glance/05.Image-Properties.md)
 
 ### 4. Placement
 
